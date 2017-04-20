@@ -1,4 +1,4 @@
-.haut{
-margin: 0 auto;
-background: blue;
+.img {
+  display: flex;
+  justify-content: center;
 }
